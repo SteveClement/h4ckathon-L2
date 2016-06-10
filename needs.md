@@ -1,14 +1,14 @@
 - [x] Call Diego and ask what type of challenges he planned.
-- [ ] A3 H4ckathon signs
+- [x] A3 H4ckathon signs
 - [ ] USB Sticks
 - [ ] Hackery Stuff, check rfid
 - [ ] Drinx (Friday, Car)
-- [ ] Food (Naturata)
+- [x] Food (Naturata)
 - [ ] Github - README.md - LICENSE - reCreations are not evil
 - [ ] Drinks: Schorle, Juices
-- [ ] Naturata Foods
-- [ ] Pop Corn
+- [x] Naturata Foods
+- [x] Pop Corn
 - [ ] Post IT + Stempel
-- [ ] Raph Keys
+- [x] Raph Keys
 - [ ] Enough chairs
 - [ ] Breakfast (Depends on participants)
