@@ -52,7 +52,12 @@ Take a deep breath and look at what is inside. Does it make music? Is there a hi
 Play with it. You have all the creative liberties on this one. May it be an interactive tzdata map, or an audio generator.
 
 Time zone data can be art, oh wait, there is even an FTP location with examples :D
-FTP
+ftp://ftp.iana.org/tz/tz-art.html
+
+ftp://ftp.iana.org/tz/
+
+ftp://ftp.iana.org/tz/releases/
+
+https://www.iana.org/time-zones
 
 https://blog.jonudell.net/2009/10/23/a-literary-appreciation-of-the-olsonzoneinfotz-database/
-
