@@ -6,9 +6,9 @@ As we understand there are only two dozen people registered which would be a rat
 
 If you would be so kind and share the following link with the people registered:
 
-https://level2.lu/h4ackathon.txt
+https://h4ckathon.syn2cat.lu/
 
-As you can read in the text we want to support the community by providing a quick alternative to the initially planned event.
+As you can read in the text, we want to support the community by providing a quick alternative to the initially planned event.
 
 Even if it is not as big and quite frankly prestigious as your event we know that together as a community we can help each other out.
 Your team, time and logistics permitting, would have done the same for us.
